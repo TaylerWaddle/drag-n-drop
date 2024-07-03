@@ -122,7 +122,6 @@ function rebuildArrays() {
 // When Item Starts Dragging
 function drag(e) {
   draggedItem = e.target;
-  console.log(draggedItem);
 }
 
 // Column allows for item to drop
